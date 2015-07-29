@@ -7,18 +7,18 @@ Very light logger for NodeJS that use [Chalk](https://www.npmjs.com/package/chal
 ## How to use it
 
 ``` javascript
-var logger = require('logger');
+var Elliot = require('elliot');
 
-logger.done('It works!');
+Elliot.done('It works!');
 
-logger.info('Breaking news!');
+Elliot.info('Breaking news!');
 
-logger.warning('Be careful!');
+Elliot.warning('Be careful!');
 
-logger.error('Something broken!');
+Elliot.error('Something broken!');
 ```
 
-![Elliot](https://github.com/welcoMattic/logger/raw/master/screenshot.png)
+![Elliot](https://raw.githubusercontent.com/welcoMattic/elliot/master/screenshot.png)
 
 ## License
 
