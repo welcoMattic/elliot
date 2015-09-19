@@ -1,6 +1,6 @@
 {
   "name": "elliot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Very light logger for NodeJS that use [Chalk](https://www.npmjs.com/package/chalk)",
   "repository": "https://github.com/welcomattic/eliott",
   "main": "elliot.js",
