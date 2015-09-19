@@ -2,6 +2,7 @@
   "name": "elliot",
   "version": "1.0.0",
   "description": "Very light logger for NodeJS that use [Chalk](https://www.npmjs.com/package/chalk)",
+  "repository": "https://github.com/welcomattic/eliott",
   "main": "elliot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
